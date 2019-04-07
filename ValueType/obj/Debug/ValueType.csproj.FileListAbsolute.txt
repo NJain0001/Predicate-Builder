@@ -1,0 +1,12 @@
+C:\Workspace\PredicateGeneratorLibrary\ValueType\bin\Debug\ValueType.dll
+C:\Workspace\PredicateGeneratorLibrary\ValueType\bin\Debug\ValueType.pdb
+C:\Workspace\PredicateGeneratorLibrary\ValueType\obj\Debug\ValueType.csprojAssemblyReference.cache
+C:\Workspace\PredicateGeneratorLibrary\ValueType\obj\Debug\ValueType.csproj.CoreCompileInputs.cache
+C:\Workspace\PredicateGeneratorLibrary\ValueType\obj\Debug\ValueType.dll
+C:\Workspace\PredicateGeneratorLibrary\ValueType\obj\Debug\ValueType.pdb
+C:\Workspace\gitRepositories\Predicate-Builder\ValueType\bin\Debug\ValueType.dll
+C:\Workspace\gitRepositories\Predicate-Builder\ValueType\bin\Debug\ValueType.pdb
+C:\Workspace\gitRepositories\Predicate-Builder\ValueType\obj\Debug\ValueType.csprojAssemblyReference.cache
+C:\Workspace\gitRepositories\Predicate-Builder\ValueType\obj\Debug\ValueType.csproj.CoreCompileInputs.cache
+C:\Workspace\gitRepositories\Predicate-Builder\ValueType\obj\Debug\ValueType.dll
+C:\Workspace\gitRepositories\Predicate-Builder\ValueType\obj\Debug\ValueType.pdb
